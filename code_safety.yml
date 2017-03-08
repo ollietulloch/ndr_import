@@ -171,11 +171,11 @@ file safety:
   lib/ndr_import/version.rb:
     comments: another check?
     reviewed_by: josh.pencheon
-    safe_revision: a85d96821791f217cd180f88328f1a87f5a9e82b
+    safe_revision: 5b8e738929c12ccf800a2729d567fdf57a1bc159
   ndr_import.gemspec:
     comments: 
     reviewed_by: josh.pencheon
-    safe_revision: 9ce125b717abc3cc9b8f360ccf1651eef14212d4
+    safe_revision: c84ea01ab925addd5aa744ea8bc5382df5a1583d
   test/file/base_test.rb:
     comments: 
     reviewed_by: timgentry
