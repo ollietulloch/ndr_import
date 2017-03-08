@@ -171,7 +171,7 @@ file safety:
   lib/ndr_import/version.rb:
     comments: another check?
     reviewed_by: josh.pencheon
-    safe_revision: db6baab3610d561026a405c4a6bef683dbba3ca0
+    safe_revision: a85d96821791f217cd180f88328f1a87f5a9e82b
   ndr_import.gemspec:
     comments: 
     reviewed_by: josh.pencheon
